@@ -11,3 +11,8 @@ With this library management system, users can easily and efficiently manage the
 
 ## Screenshot
 ![library_app_springboot_ssmp](https://user-images.githubusercontent.com/86503605/231042388-a6f3f5d4-3d4f-47d7-82e1-dc5fc179b749.png)
+
+## Notes
+After run the database and the app. Type the following url in order to access the web app.
+
+http://localhost/pages/books.html 
